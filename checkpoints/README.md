@@ -1,0 +1,1 @@
+Download the [released checkpoint](https://drive.google.com/file/d/178RikDLXPy-4eMGDhG5V6RzmlJhp-8fy/view?usp=sharing), unzip it and put the extracted `pretrained_graphclip.pt` in this directory.
